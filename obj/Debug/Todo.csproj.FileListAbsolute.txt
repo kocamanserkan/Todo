@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\Todo\bin\Debug\Todo.exe.config
+C:\Users\asus\source\repos\Todo\bin\Debug\Todo.exe
+C:\Users\asus\source\repos\Todo\bin\Debug\Todo.pdb
+C:\Users\asus\source\repos\Todo\obj\Debug\Todo.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Todo\obj\Debug\Todo.Form1.resources
+C:\Users\asus\source\repos\Todo\obj\Debug\Todo.Properties.Resources.resources
+C:\Users\asus\source\repos\Todo\obj\Debug\Todo.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Todo\obj\Debug\Todo.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Todo\obj\Debug\Todo.exe
+C:\Users\asus\source\repos\Todo\obj\Debug\Todo.pdb
+C:\Users\asus\source\repos\Todo\obj\Debug\Todo.TodoEnter.resources
+C:\Users\asus\source\repos\Todo\obj\Debug\Todo.newEntry.resources
+C:\Users\asus\source\repos\Todo\obj\Debug\Todo.EntryList.resources
